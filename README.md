@@ -135,5 +135,4 @@ You can extend this project by adding:
 **Project:** Python Quiz Game
 **Institution:** MREM
 **Tools Used:** Python 3, 
-👉 *"Vara, give the documentation as PDF"* or
-👉 *"Give as PPT"*
+
